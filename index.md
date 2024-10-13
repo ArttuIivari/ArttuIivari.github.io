@@ -4,6 +4,7 @@ Hello World
 > hyvin, kiitos kysymästä!
 
 ![kuva](assets/images/picture.jpg)
+
 *Meikä mansikka ihailemassa itseäni peilin edessä*
 
 
